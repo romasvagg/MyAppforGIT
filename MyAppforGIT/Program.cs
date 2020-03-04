@@ -17,9 +17,10 @@ namespace MyAppforGIT
             Console.WriteLine("alles 200 grammes kodika");
             Console.WriteLine("alles 200 grammes kodika");
             //tora kanoume ena deutero commit
-            //grafoume ena comment kai Commit All
+            //prota kanoume stage
+            //kei meta grafoume ena comment kai Commit All
 
-
+            //tora vazoume ena deutero arxeio
 
         }
     }
