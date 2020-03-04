@@ -6,5 +6,7 @@ namespace MyAppforGIT
 {
     class Onkly_in_branh
     {
+    //this class leaves only in branch
+
     }
 }
